@@ -1,3 +1,4 @@
+library("ggplot2")
 data$Treatment<- as.factor(data$Treatment)
 ggplot(data, aes(x=Time, y=BG, color=Treatment))+ geom_line()
 View(data)
