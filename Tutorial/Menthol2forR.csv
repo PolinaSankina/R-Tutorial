@@ -1,4 +1,4 @@
-id,MouseID ,Treatment,Time,BG
+id,MouseID,Treatment,Time, BG
 1,058-C304,Menthol,0,84
 2,058-C304,Menthol,15,283
 3,058-C304,Menthol,30,241
